@@ -1,6 +1,6 @@
 # twisted-app
 
-pythonのtwistedというフレームワークを使ったシンプルなwebsocketのテストです
+pythonのtwistedというフレームワークを使ったシンプルな双方向通信のテストです
 
 ![image](https://user-images.githubusercontent.com/5797788/201371230-3371d2aa-6c3f-45c0-b400-3169d03e52a0.png)
 
